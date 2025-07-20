@@ -1,0 +1,7 @@
+Timestamp,CustomerID,ShippingMethod,Fee,Subtotal,TotalAmount,Product1Name,Product1Price,Product1Quantity,Product1Subtotal,...
+02/05/2025 15:36:45,250327021,Delivery Fee,8.00,25.00,33.00,Mathematics Fundamentals,25.00,1,25.00,
+02/05/2025 15:38:33,250327001,Delivery Fee,3.50,25.00,28.50,Mathematics Fundamentals,25.00,1,25.00,
+02/05/2025 15:41:13,250327021,Delivery Fee,3.50,25.00,28.50,Mathematics Fundamentals,25.00,1,25.00,
+02/05/2025 15:42:48,250327021,Delivery Fee,9.00,50.00,59.00,Mathematics Fundamentals,25.00,2,50.00,
+02/05/2025 22:18:00,250327011,Delivery Fee,13.00,620.00,633.00,English Grammar Mastery,19.00,30,570.00,Mathematics Fundamentals,25.00,2,50.00,
+02/05/2025 22:53:12,250327011,Pickup Fee,3.00,451.00,454.00,English Grammar Mastery,19.00,23,437.00,Pride and Prejudice,14.00,1,14.00,
