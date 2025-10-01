@@ -18,7 +18,7 @@
   
 * 💳 Perform Payment
 
-👨‍💼 Admin
+# 👨‍💼 Admin
 
 * 🔑 Register & Login
 
@@ -29,7 +29,7 @@
 * ❌ Delete Products
   
 
-📦 Products
+# 📦 Products
 
 * Organized products into categories 
 
