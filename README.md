@@ -1,12 +1,11 @@
-### 🛒 Online Shopping System (Java)
+# 🛒 Online Shopping System 
 ## 📌 Project Overview
 
-* This project is an Online Shopping System built using Java.
-* It allows customers to shop online and admins to manage products.
-* All data (customers, admins, orders, products) is stored in text files.
+* This Online Shopping System implemented provides functionalities for both customers and admins with CRUD operations, product management, order processing, and file-based storage.
+* The system simulates real-world e-commerce features such as user authentication, cart management, order history, and simple payment validation.
 
 ## ✨ Features
-# 👤 Customer
+### 👤 Customer
 
 * 🔐 Register & Login (with validation for password, email, and address)
 
@@ -18,7 +17,7 @@
   
 * 💳 Perform Payment
 
-# 👨‍💼 Admin
+### 👨‍💼 Admin
 
 * 🔑 Register & Login
 
@@ -29,7 +28,7 @@
 * ❌ Delete Products
   
 
-# 📦 Products
+### 📦 Products
 
 * Organized products into categories 
 
